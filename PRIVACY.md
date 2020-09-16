@@ -1,5 +1,5 @@
 ### 隐私政策
-足迹是一款使用手机GPS数据进行轨迹记录的APP，旨在通过超低耗电，超级稳定的后台运行，记录用户一生轨迹。
+足迹是一款使用手机GPS数据进行轨迹记录的APP，旨在通过超低耗电，超级稳定的后台运行，超高极致的算法优化，记录以及展示用户一生轨迹。
 
 此隐私政策适用于 iOS 主应用本身。
 
@@ -17,7 +17,7 @@
 
 如果您对我们的隐私政策有任何疑问或建议，请随时通过 962429707@qq.com 与我们联系。
 
-————————————————————
+---
 
 ### Privacy Policy
 Footprint is an app that uses mobile phone GPS data to record the user's life track through ultra-low power consumption and super stable background operation.
