@@ -13,9 +13,11 @@
 
 我们可能会不时地更新我们的隐私政策。因此，建议您定期查看此页面以了解更新后的内容。我们会通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在此页面上发布后立即生效。
 
-联系我们
+### 联系我们
 
 如果您对我们的隐私政策有任何疑问或建议，请随时通过 962429707@qq.com 与我们联系。
+
+————————————————————
 
 ### Privacy Policy
 Footprint is an app that uses mobile phone GPS data to record the user's life track through ultra-low power consumption and super stable background operation.
@@ -27,6 +29,7 @@ In addition, please have confidence in our service and personality. All privacy 
 
 ### Changes to this Privacy Policy
 We may update our privacy policy from time to time. Therefore, it is recommended that you check this page regularly to learn about the updated content. We will inform you of any changes by publishing a new privacy policy on this page. These changes take effect immediately after they are published on this page.
-contact us
+
+### contact us
 
 If you have any questions or suggestions about our privacy policy, please feel free to contact us at 962429707@qq.com  Contact us.
