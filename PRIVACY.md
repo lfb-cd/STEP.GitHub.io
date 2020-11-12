@@ -13,7 +13,7 @@
 足迹在软件内一共使用两款地图图商，除国内地图使用高德地图外，其他地图均使用mapBox。
 
 高德地图服务协议为：https://lbs.amap.com/home/terms/
-mapBox服务协议为：https://www.mapbox.com/legal/service-terms
+mapbox 服务协议为：https://www.mapbox.com/legal/service-terms
 
 ### 本隐私政策的变更
 
@@ -37,7 +37,7 @@ In addition, please have confidence in our service and personality. All privacy 
 Footprints in the software use a total of two map merchants, except for the domestic map using 高德 map, other maps use mapbox.
 
 高德 map service-terms is as follows: https://lbs.amap.com/home/terms/
-Mapbox service-terms is as follows: https://www.mapbox.com/legal/service-terms
+mapbox service-terms is as follows: https://www.mapbox.com/legal/service-terms
 
 ### Changes to this Privacy Policy
 We may update our privacy policy from time to time. Therefore, it is recommended that you check this page regularly to learn about the updated content. We will inform you of any changes by publishing a new privacy policy on this page. These changes take effect immediately after they are published on this page.
