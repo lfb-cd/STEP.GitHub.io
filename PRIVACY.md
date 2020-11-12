@@ -9,6 +9,11 @@
 
 另外，请对我们的服务，以及人品充满信心，所有隐私信息永远只保留在您的设备上，我们不会修改或者控制它。
 
+### 足迹的地图使用
+足迹在软件内一共使用两款地图图商，除国内地图使用高德地图外，其他地图均使用mapBox。
+高德地图服务协议为：https://lbs.amap.com/home/terms/
+mapBox服务协议为：https://www.mapbox.com/legal/service-terms
+
 ### 本隐私政策的变更
 
 我们可能会不时地更新我们的隐私政策。因此，建议您定期查看此页面以了解更新后的内容。我们会通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在此页面上发布后立即生效。
@@ -26,6 +31,11 @@ This privacy policy applies to the IOS master app itself.
 ### Data collected by footprints
 In short, footprints will collect your GPS and health data for professional analysis, but please rest assured that all collected data will be stored in the device itself, and footprints will not upload your data to the server, let alone spread your personal data.
 In addition, please have confidence in our service and personality. All privacy information will always be kept on your device, and we will not modify or control it.
+
+### Map use of footprints
+Footprints in the software use a total of two map merchants, except for the domestic map using 高德 map, other maps use mapbox.
+高德 map service-terms is as follows: https://lbs.amap.com/home/terms/
+Mapbox service-terms is as follows: https://www.mapbox.com/legal/service-terms
 
 ### Changes to this Privacy Policy
 We may update our privacy policy from time to time. Therefore, it is recommended that you check this page regularly to learn about the updated content. We will inform you of any changes by publishing a new privacy policy on this page. These changes take effect immediately after they are published on this page.
