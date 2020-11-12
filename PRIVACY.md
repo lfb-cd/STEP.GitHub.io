@@ -11,6 +11,7 @@
 
 ### 足迹的地图使用
 足迹在软件内一共使用两款地图图商，除国内地图使用高德地图外，其他地图均使用mapBox。
+
 高德地图服务协议为：https://lbs.amap.com/home/terms/
 mapBox服务协议为：https://www.mapbox.com/legal/service-terms
 
@@ -34,6 +35,7 @@ In addition, please have confidence in our service and personality. All privacy 
 
 ### Map use of footprints
 Footprints in the software use a total of two map merchants, except for the domestic map using 高德 map, other maps use mapbox.
+
 高德 map service-terms is as follows: https://lbs.amap.com/home/terms/
 Mapbox service-terms is as follows: https://www.mapbox.com/legal/service-terms
 
