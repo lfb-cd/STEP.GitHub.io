@@ -4,9 +4,8 @@
 
 ***
 
-最高荣誉：AppStore中国区 Today首页故事推荐
-
-
+最高荣誉：AppStore中国区 Today首页故事推荐(https://apps.apple.com/cn/story/id1544392421)
+![AppStore Today首页故事推荐](https://github.com/lfb-cd/STEP.GitHub.io/blob/master/Today.jpg)
 
 ----
 
