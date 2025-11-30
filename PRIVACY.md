@@ -1,47 +1,170 @@
-### 足迹隐私政策
-足迹是一款使用手机GPS数据进行轨迹记录的APP，旨在通过超低耗电，超级稳定的后台运行，超高极致的算法优化，记录以及展示用户一生轨迹。
+# 🔐 隐私政策
 
-此隐私政策适用于 iOS 主应用本身。
+## 感谢你使用 一生足迹
 
-### 足迹收集的数据
+「一生足迹」（在应用市场和下文中，亦会简称为 “足迹” 或“本应用”）是指为您提供轨迹记录服务的移动应用程序，包含 **iOS 版本** 和 **Android 版本**。
 
-足迹会收集您的GPS定位和健康数据为您做专业分析，但是请放心，所有搜集的数据将存储于设备本身，足迹不会将您的数据上传至服务器，更加不会散布您的个人数据。
+“一生足迹”（以下称为“我们”）知道个人隐私信息对您很重要，所以我们承诺保护使用我们的产品和服务（以下称为“足迹服务”）的用户（以下统称“用户”或“您”）的个人信息及隐私安全。
 
-另外，请对我们的服务，以及人品充满信心，所有隐私信息永远只保留在您的设备上，我们不会修改或者控制它。
+我们的目的是希望能尽量帮您记录一生轨迹，通过超低耗电、超级稳定的后台运行和极致的算法优化，为您展示您的一生足迹。我们会在尽量提供便利性的基础上，尽量少的收集关于您的信息，尽可能的保护您的隐私。
 
-### 足迹的地图使用
-足迹在软件内一共使用两款地图图商，除国内地图使用高德地图外，其他地图均使用mapBox。
+所以我们希望通过本协议，向您说明我们在收集和使用您相关个人信息时对应的处理规则，以及我们为您提供的访问、更正、删除和保护这些个人信息的方式，以便更好的保障您的权益。
 
-高德地图服务协议为：https://lbs.amap.com/home/terms/
-mapbox 服务协议为：https://www.mapbox.com/legal/service-terms
+本《隐私政策》将帮助您了解以下内容：
 
-### 本隐私政策的变更
+一、我们将收集哪些信息，以及如何收集和使用您的个人信息；
+二、我们如何使用 Cookies 或相关技术；
+三、我们可能分享、转让和披露的个人信息；
+四、我们如何保留、储存和保护您的个人信息安全；
+五、如何管理您的个人信息；
+六、第三方服务；
+七、应用内会申请的权限；
+八、隐私政策的通知和修订；
+九、如何联系我们。
 
-我们可能会不时地更新我们的隐私政策。因此，建议您定期查看此页面以了解更新后的内容。我们会通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在此页面上发布后立即生效。
+## 一、我们将收集哪些信息及如何收集和使用您的个人信息
 
-### 联系我们
+我们收集您的个人信息主要是为了您更容易和更满意地使用足迹服务。而这些个人信息有助于我们实现这一目标。
 
-如果您对我们的隐私政策有任何疑问或建议，请随时通过 962429707@qq.com 与我们联系。
+### 我们将通过以下途径收集和获得您的个人信息
+
+您提供的个人信息。例如：
+-   **iOS 端**：我们不提供独立的账号注册体系，直接使用您的 **iCloud 账户** 进行身份识别和数据同步。
+-   **Android 端**：您在注册足迹服务的账号或使用足迹服务时，向我们提供的个人信息（如通过微信或 Google 登录时的昵称、头像、OpenID 等）。
+-   **两端通用**：您在使用足迹服务时产生的轨迹数据（主要存储于本地）。
+
+### 我们会出于以下目的，收集和使用您以下类型的个人信息
+
+#### 帮助您完成足迹的注册及登录
+-   **iOS 端**：我们使用 iCloud 进行静默登录，无需您手动输入账号密码。您的身份标识基于您的 iCloud ID，我们无法获取您的真实姓名或联系方式。
+-   **Android 端**：为便于我们为您提供完整的服务（如数据同步、VIP 服务），您需要提供基本注册或登录个人信息。我们支持第三方账号登录（微信、Google），我们将通过这些第三方平台获取您的唯一标识、昵称和头像。
+
+
+#### 向您提供服务
+我们所收集和使用的个人信息是为您提供足迹服务的必要条件：
+1.  **轨迹记录与展示**：您在使用足迹服务时，我们会收集您的 GPS 定位信息、速度、海拔等数据，用于在地图上绘制您的轨迹。**请放心，所有轨迹数据默认仅存储于您的设备本地，除非您主动使用备份功能，否则我们不会上传您的轨迹数据至服务器。**
+2.  **数据同步与备份**：
+    *   **iOS 端**：支持 iCloud 自动备份，数据加密存储于您的 iCloud 私有数据库中。
+    *   **Android 端**：支持 WebDAV 备份，数据加密上传至您指定的 WebDAV 服务器（如坚果云）。
+3.  **排行榜（仅 iOS 端）**：为了提供社交互动功能，如果您参与排行榜，我们会将您的昵称、步数、距离数据上传至 iCloud 公共数据库，以便与其他用户进行排名。
+4.  **支付结算**：如您订阅 VIP 服务，您可以选择 Google Play、微信支付或 Apple In-App Purchase 等第三方支付机构所提供的支付服务。支付过程中我们可能需要将您的订单号与交易金额信息同这些支付机构共享以实现其确认您的支付指令并完成支付。
+5.  **客服与售后服务**：当您与我们联系时，我们可能会保存您的通信记录和联系方式，以便与您联系或帮助您解决问题。
+
+## 二、我们如何使用 Cookies 或同类技术
+
+### 本地数据库与偏好设置
+我们使用本地数据库（如 Room、Realm）和偏好设置（SharedPreferences/DataStore/UserDefaults）来存储您的轨迹数据、应用设置（如定位模式、主题）以及登录状态。这些技术是保障应用正常运行和提供个性化体验所必需的。
+
+## 三、我们可能分享、转让或披露的个人信息
+
+### 分享
+我们不会与任何公司、组织和个人分享您的个人信息，但以下情况除外：
+1.  **在获取明确同意的情况下分享**：获得您的明确同意后，我们会与其他方分享您的个人信息。
+2.  **与授权合作伙伴分享**：仅为实现本政策中声明的目的，我们的某些服务将由授权合作伙伴提供。我们可能会与合作伙伴分享您的某些个人信息，以提供更好的客户服务和用户体验。
+
+### 转让
+我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：
+1.  **在获取明确同意的情况下转让**：获得您的明确同意后，我们会向其他方转让您的个人信息；
+2.  **在涉及合并、收购或破产清算时**：如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受此隐私政策的约束，否则我们将要求该公司、组织重新向您征求授权同意。
+
+### 披露
+我们仅会在以下情况下，公开披露您的个人信息：
+1.  **获得您明确同意后**；
+2.  **基于法律的披露**：在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。
+
+## 四、我们如何保留、储存和保护您的个人信息安全
+
+### 数据存储
+-   **本地优先**：您的核心数据（轨迹记录）存储在您的移动设备本地。
+-   **iOS 端云存储**：您的轨迹数据和偏好设置通过 iCloud 同步和备份，存储在 Apple 的服务器上，受 Apple 隐私政策保护。
+-   **Android 端服务器存储**：您的账号信息（ID、昵称、头像）和 VIP 订阅状态存储在我们的服务器上。
+
+### 数据保护
+我们使用加密技术（如 SSL/TLS）来保护您的数据在传输过程中的安全。对于本地数据，我们依赖于操作系统提供的安全机制（如沙盒机制）来防止未经授权的访问。
+
+### 备份
+-   **iOS 端**：提供 iCloud 备份功能，自动同步至您的 iCloud 账户。以及本地备份功能
+-   **Android 端**：提供 WebDAV 备份功能，由您完全控制。
+
+
+## 五、如何管理您的个人信息
+
+### 访问、更正和删除您的个人信息
+您可以通过应用内的设置页面访问和修改您的个人资料。
+对于轨迹数据，您可以直接在应用内的轨迹列表或地图页面进行查看和删除。
+
+### 注销你的账户
+-   **iOS 端**：由于我们不维护独立的账号体系，您可以直接在系统设置中删除应用数据或关闭 iCloud 同步即可清除云端数据。
+-   **Android 端**：APP设置页面-关于页面-可注销您的账户。
+
+
+## 六、第三方服务
+
+足迹服务可能链接至第三方提供的服务，包括：
+
+### 通用（Android & iOS）
+1.  **Mapbox Maps SDK**
+    *   **使用目的**：提供全球地图显示和交互功能。
+    *   **收集个人信息类型**：设备信息、位置信息、网络状态。
+    *   **隐私政策**：[https://www.mapbox.com/legal/privacy](https://www.mapbox.com/legal/privacy)
+
+
+### iOS 端特有
+1.  **高德地图 SDK (AMap)**
+    *   **使用目的**：提供国内地图显示和定位服务。
+    *   **收集个人信息类型**：设备信息、位置信息、网络状态。
+    *   **隐私政策**：[https://lbs.amap.com/pages/privacy/](https://lbs.amap.com/pages/privacy/)
+2.  **百度统计 (Baidu MobStat)**
+    *   **使用目的**：用于应用使用情况统计和分析，改善用户体验。
+    *   **收集个人信息类型**：设备信息（IMEI/MAC/IDFA等）、应用列表、网络信息。
+    *   **隐私政策**：[https://tongji.baidu.com/web/help/article?id=330&type=0](https://tongji.baidu.com/web/help/article?id=330&type=0)
+3.  **Mixpanel**
+    *   **使用目的**：用户行为分析。
+    *   **收集个人信息类型**：设备信息、应用使用记录。
+    *   **隐私政策**：[https://mixpanel.com/legal/privacy-policy/](https://mixpanel.com/legal/privacy-policy/)
+
+### Android 端特有
+1.  **Google Play Services (Location, Auth, Billing)**
+    *   **使用目的**：提供高精度定位、Google 账号登录、应用内支付。
+    *   **收集个人信息类型**：设备信息、位置信息、账号信息、支付信息。
+    *   **隐私政策**：[https://policies.google.com/privacy](https://policies.google.com/privacy)
+2.  **WeChat Open SDK (微信开放平台)**
+    *   **使用目的**：提供微信账号登录、分享内容到微信。
+    *   **收集个人信息类型**：设备信息、网络状态。
+    *   **隐私政策**：[https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)
+
+## 七、应用内会申请的权限
+
+我们需要申请部分涉及个人隐私的系统权限，确保应用内某些功能可以正常使用。
+
+### iOS 应用内会申请的权限
+-   **定位权限 (Location Always and When In Use)**：用于在后台持续记录您的轨迹。这是核心功能，请选择“始终允许”。
+-   **运动与健身 (Motion & Fitness)**：用于获取步数信息和提高轨迹记录精度（检测运动状态）。
+-   **相册权限 (Photo Library)**：用于保存生成的轨迹图片或读取图片以生成足迹。
+-   **相机权限 (Camera)**：用于拍摄照片并添加到足迹点。
+-   **Siri 与快捷指令**：用于通过语音控制开始/停止记录或切换模式。
+-   **Face ID / Touch ID**：用于应用锁功能，保护您的隐私数据。
+-   **通知权限**：用于发送轨迹记录状态通知或每日回顾提醒。
+
+### Android 应用内会申请的权限
+-   **定位权限 (ACCESS_COARSE_LOCATION / ACCESS_FINE_LOCATION)**：用于获取您的位置以记录轨迹。
+-   **后台定位权限 (ACCESS_BACKGROUND_LOCATION)**：用于在应用切换到后台或屏幕关闭时继续记录轨迹。
+-   **前台服务权限 (FOREGROUND_SERVICE)**：用于保持服务在后台运行。
+-   **网络权限 (INTERNET)**：用于加载地图、同步数据。
+-   **忽略电池优化**：防止系统因省电策略中断记录。
+-   **精确闹钟**：用于定时唤醒服务。
+
+
+
+## 八、隐私政策的通知和修订
+
+我们可能适时修改本《隐私政策》的条款。对于重大变更，我们会提供更显著的通知。如您仍然继续使用足迹服务的，即表示同意受经修订的本《隐私政策》的约束。
+
+## 九、联系我们
+
+如果您对我们的隐私政策有任何疑问或建议，请随时通过以下方式与我们联系：
+
+*   **电子邮箱**：962429707@qq.com
 
 ---
-
-### Privacy Policy
-Footprint is an app that uses mobile phone GPS data to record the user's life track through ultra-low power consumption and super stable background operation.
-This privacy policy applies to the IOS master app itself.
-
-### Data collected by footprints
-In short, footprints will collect your GPS and health data for professional analysis, but please rest assured that all collected data will be stored in the device itself, and footprints will not upload your data to the server, let alone spread your personal data.
-In addition, please have confidence in our service and personality. All privacy information will always be kept on your device, and we will not modify or control it.
-
-### Map use of footprints
-Footprints in the software use a total of two map merchants, except for the domestic map using 高德 map, other maps use mapbox.
-
-高德 map service-terms is as follows: https://lbs.amap.com/home/terms/
-mapbox service-terms is as follows: https://www.mapbox.com/legal/service-terms
-
-### Changes to this Privacy Policy
-We may update our privacy policy from time to time. Therefore, it is recommended that you check this page regularly to learn about the updated content. We will inform you of any changes by publishing a new privacy policy on this page. These changes take effect immediately after they are published on this page.
-
-### contact us
-
-If you have any questions or suggestions about our privacy policy, please feel free to contact us at 962429707@qq.com  Contact us.
+*最近更新日期：2025年11月30日*
