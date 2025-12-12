@@ -30,14 +30,18 @@
 
 您提供的个人信息。例如：
 -   **iOS 端**：我们不提供独立的账号注册体系，直接使用您的 **iCloud 账户** 进行身份识别和数据同步。
--   **Android 端**：您在注册足迹服务的账号或使用足迹服务时，向我们提供的个人信息（如通过微信或 Google 登录时的昵称、头像、OpenID 等）。
+-   **Android 端**：
+    -   **游客模式（Guest Mode）**：默认情况下，我们为您生成一个随机的设备标识符（Device ID/UUID）以在本地存储您的数据。此标识符不与您的真实个人信息关联。
+    -   **账号绑定**：如果您选择绑定微信账号（推荐），我们将收集您的微信 OpenID、昵称和头像，用于账号识别和跨设备同步。
 -   **两端通用**：您在使用足迹服务时产生的轨迹数据（主要存储于本地）。
 
 ### 我们会出于以下目的，收集和使用您以下类型的个人信息
 
 #### 帮助您完成足迹的注册及登录
--   **iOS 端**：我们使用 iCloud 进行静默登录，无需您手动输入账号密码。您的身份标识基于您的 iCloud ID，我们无法获取您的真实姓名或联系方式。
--   **Android 端**：为便于我们为您提供完整的服务（如数据同步、VIP 服务），您需要提供基本注册或登录个人信息。我们支持第三方账号登录（微信、Google），我们将通过这些第三方平台获取您的唯一标识、昵称和头像。
+-   **iOS 端**：我们使用 iCloud 进行静默登录。
+-   **Android 端**：
+    -   **游客登录**：无需注册，自动根据设备标识符登录。
+    -   **第三方绑定**：为保障数据安全，我们支持绑定微信账号。绑定时，我们将通过微信开放平台获取您的唯一标识、昵称和头像。
 
 
 #### 向您提供服务
@@ -103,33 +107,37 @@
 足迹服务可能链接至第三方提供的服务，包括：
 
 ### 通用（Android & iOS）
+1.  **无通用第三方 SDK**。
+
+### iOS 端特有
 1.  **Mapbox Maps SDK**
     *   **使用目的**：提供全球地图显示和交互功能。
     *   **收集个人信息类型**：设备信息、位置信息、网络状态。
     *   **隐私政策**：[https://www.mapbox.com/legal/privacy](https://www.mapbox.com/legal/privacy)
-
-
-### iOS 端特有
-1.  **高德地图 SDK (AMap)**
+2.  **高德地图 SDK (AMap)**
     *   **使用目的**：提供国内地图显示和定位服务。
     *   **收集个人信息类型**：设备信息、位置信息、网络状态。
     *   **隐私政策**：[https://lbs.amap.com/pages/privacy/](https://lbs.amap.com/pages/privacy/)
-2.  **百度统计 (Baidu MobStat)**
+3.  **百度统计 (Baidu MobStat)**
     *   **使用目的**：用于应用使用情况统计和分析，改善用户体验。
     *   **收集个人信息类型**：设备信息（IMEI/MAC/IDFA等）、应用列表、网络信息。
     *   **隐私政策**：[https://tongji.baidu.com/web/help/article?id=330&type=0](https://tongji.baidu.com/web/help/article?id=330&type=0)
-3.  **Mixpanel**
+4.  **Mixpanel**
     *   **使用目的**：用户行为分析。
     *   **收集个人信息类型**：设备信息、应用使用记录。
     *   **隐私政策**：[https://mixpanel.com/legal/privacy-policy/](https://mixpanel.com/legal/privacy-policy/)
 
 ### Android 端特有
-1.  **Google Play Services (Location, Auth, Billing)**
+1.  **腾讯地图 SDK (Tencent Map SDK)**
+    *   **使用目的**：提供地图显示、定位服务、位置搜索。
+    *   **收集个人信息类型**：设备信息（如 IP 地址、设备型号、操作系统版本）、位置信息（经纬度、GNSS 信息、WiFi 信息、基站信息）、网络状态。
+    *   **隐私政策**：[https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40](https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40)
+2.  **Google Play Services (Location, Auth, Billing)**
     *   **使用目的**：提供高精度定位、Google 账号登录、应用内支付。
     *   **收集个人信息类型**：设备信息、位置信息、账号信息、支付信息。
     *   **隐私政策**：[https://policies.google.com/privacy](https://policies.google.com/privacy)
-2.  **WeChat Open SDK (微信开放平台)**
-    *   **使用目的**：提供微信账号登录、分享内容到微信。
+3.  **WeChat Open SDK (微信开放平台)**
+    *   **使用目的**：提供微信账号绑定（登录）、分享内容到微信、微信支付（游客或会员购买）。
     *   **收集个人信息类型**：设备信息、网络状态。
     *   **隐私政策**：[https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)
 
