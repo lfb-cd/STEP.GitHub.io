@@ -134,14 +134,22 @@
 
 ### Android 端特有
 1.  **腾讯地图 SDK (Tencent Map SDK)**
-    *   **使用目的**：提供地图显示、定位服务、位置搜索。
+    *   **使用目的**：提供地图显示、位置搜索。
     *   **收集个人信息类型**：设备信息（如 IP 地址、设备型号、操作系统版本）、位置信息（经纬度、GNSS 信息、WiFi 信息、基站信息）、网络状态。
     *   **隐私政策**：[https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40](https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40)
-2.  **Google Play Services (Location, Auth, Billing)**
+2.  **腾讯定位 SDK (Tencent Location SDK)**
+    *   **SDK名称**：腾讯定位SDK
+    *   **开发者**：深圳市腾讯计算机系统有限公司
+    *   **版本**：7.6.1.4
+    *   **主要功能**：连续定位、单次定位、地理围栏、场景定位、惯导、北斗定位等
+    *   **简介**：腾讯定位SDK是一套基于Android 4.4及以上版本设备的应用程序接口。通过该接口，您可以轻松使用腾讯定位服务，构建LBS应用程序。定位SDK包括GPS定位与网络定位，实现了经纬度坐标偏转与当前位置的POI名称、地址或者行政区划的查询。采用了移动缓存策略，节省流量与电量。
+    *   **个人信息处理规则**：[https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0](https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0)
+    *   **参考资料**：[使用说明](https://lbs.qq.com/mobile/androidLocationSDK/androidGeoGuide/androidGeoCreat) | [参考手册](https://mapapi.qq.com/sdk/locationSDK/Android/doc/index.html) | [合规指南](https://lbs.qq.com/complianceGuides/guides/sdkGuides/positionSdkComplianceGuide)
+3.  **Google Play Services (Location, Auth, Billing)**
     *   **使用目的**：提供高精度定位、Google 账号登录、应用内支付。
     *   **收集个人信息类型**：设备信息、位置信息、账号信息、支付信息。
     *   **隐私政策**：[https://policies.google.com/privacy](https://policies.google.com/privacy)
-3.  **WeChat Open SDK (微信开放平台)**
+4.  **WeChat Open SDK (微信开放平台)**
     *   **使用目的**：提供微信账号绑定（登录）、分享内容到微信、微信支付（游客或会员购买）。
     *   **收集个人信息类型**：设备信息、网络状态。
     *   **隐私政策**：[https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)
@@ -180,4 +188,4 @@
 *   **电子邮箱**：962429707@qq.com
 
 ---
-*最近更新日期：2025年11月30日*
+*最近更新日期：2025年12月13日*
