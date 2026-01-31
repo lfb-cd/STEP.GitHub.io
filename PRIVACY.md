@@ -148,27 +148,37 @@
     *   **隐私政策**：[https://mixpanel.com/legal/privacy-policy/](https://mixpanel.com/legal/privacy-policy/)
 
 ### Android 端特有
-1.  **腾讯地图 SDK (Tencent Map SDK)**
+1.  **Bugly Android**
+    *   **SDK名称**：Bugly Android
+    *   **开发者**：深圳市腾讯计算机系统有限公司
+    *   **SDK隐私政策链接**：[https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56](https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56)
+    *   **使用目的**：异常上报与运营统计。
+    *   **收集个人信息类型**：设备信息（如设备型号、系统版本）、应用日志信息。
+2.  **微信OpenSDK Android**
+    *   **SDK名称**：微信OpenSDK Android
+    *   **开发者**：深圳市腾讯计算机系统有限公司
+    *   **SDK隐私政策链接**：[https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8](https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8)
+    *   **使用目的**：提供微信账号绑定（登录）、分享内容到微信、微信支付（游客或会员购买）。
+    *   **收集个人信息类型**：设备信息（**MAC地址**、**Android ID**）、**应用安装列表**（用于判断是否安装微信以实现跳转）、网络状态。
+3.  **腾讯地图SDK（Android）**
+    *   **SDK名称**：腾讯地图SDK（Android）
+    *   **开发者**：深圳市腾讯计算机系统有限公司
+    *   **SDK隐私政策链接**：[https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40](https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40)
     *   **使用目的**：提供地图显示、位置搜索。
     *   **收集个人信息类型**：设备信息（如 IP 地址、设备型号、操作系统版本、**MAC地址**、**Android ID**）、位置信息（经纬度、GNSS 信息、WiFi 信息、基站信息）、**应用安装列表**、网络状态。
-    *   **隐私政策**：[https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40](https://privacy.qq.com/document/preview/a10a8634f237464da9a95f4f07e73e40)
-2.  **腾讯定位 SDK (Tencent Location SDK)**
-    *   **SDK名称**：腾讯定位SDK
+4.  **腾讯定位SDK（Android）**
+    *   **SDK名称**：腾讯定位SDK（Android）
     *   **开发者**：深圳市腾讯计算机系统有限公司
+    *   **SDK隐私政策链接**：[https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0](https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0)
     *   **版本**：7.6.1.4
     *   **主要功能**：连续定位、单次定位、地理围栏、场景定位、惯导、北斗定位等
     *   **简介**：腾讯定位SDK是一套基于Android 4.4及以上版本设备的应用程序接口。通过该接口，您可以轻松使用腾讯定位服务，构建LBS应用程序。定位SDK包括GPS定位与网络定位，实现了经纬度坐标偏转与当前位置的POI名称、地址或者行政区划的查询。采用了移动缓存策略，节省流量与电量。
     *   **收集个人信息类型**：设备信息（**MAC地址**、**Android ID**、IP 地址、设备型号、操作系统版本）、位置信息（经纬度、GNSS 信息、WiFi 信息、基站信息）、**软件安装列表**（用于辅助定位及风控）、网络状态。
-    *   **个人信息处理规则**：[https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0](https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0)
     *   **参考资料**：[使用说明](https://lbs.qq.com/mobile/androidLocationSDK/androidGeoGuide/androidGeoCreat) | [参考手册](https://mapapi.qq.com/sdk/locationSDK/Android/doc/index.html) | [合规指南](https://lbs.qq.com/complianceGuides/guides/sdkGuides/positionSdkComplianceGuide)
-3.  **Google Play Services (Location, Auth, Billing)**
+5.  **Google Play Services (Location, Auth, Billing)**
     *   **使用目的**：提供高精度定位、Google 账号登录、应用内支付。
     *   **收集个人信息类型**：设备信息、位置信息、账号信息、支付信息。
     *   **隐私政策**：[https://policies.google.com/privacy](https://policies.google.com/privacy)
-4.  **WeChat Open SDK (微信开放平台)**
-    *   **使用目的**：提供微信账号绑定（登录）、分享内容到微信、微信支付（游客或会员购买）。
-    *   **收集个人信息类型**：设备信息（**MAC地址**、**Android ID**）、**应用安装列表**（用于判断是否安装微信以实现跳转）、网络状态。
-    *   **隐私政策**：[https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)
 
 ## 七、应用内会申请的权限
 
